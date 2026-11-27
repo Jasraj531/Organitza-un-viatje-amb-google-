@@ -4,7 +4,6 @@ Pràctica P5.1 - Organització d'un viatge amb Google
 # PRÀCTICA 5.1 – ORGANITZACIÓ D'UN VIATGE AMB GOOGLE
 
 ## 1. Introducció
-
 En aquesta pràctica he organitzat un viatge de set dies a Itàlia utilitzant diferents aplicacions de Google.
 
 L'objectiu és aprendre a utilitzar Gmail, Google Calendar, Google Maps i Google Sheets per gestionar un viatge, organitzar activitats, controlar les despeses i compartir informació amb altres persones.
